@@ -11,33 +11,73 @@
     height: 55px;
     background-position: -2px -3px;
 }
+.uno:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -2px -71px;
+}
 .dos{
     width: 55px;
     height: 55px;
     background-position: -62px -3px;
+}
+.dos:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -62px -71px;
 }
 .tres{
     width: 55px;
     height: 55px;
     background-position: -123px -3px;
 }
+.tres:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -123px -71px;
+}
 .cuatro{
     width: 55px;
     height: 55px;
     background-position: -184px -3px;
+}
+.cuatro:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -184px -71px;
 }
 .cinco{
     width: 55px;
     height: 55px;
     background-position: -246px -3px;
 }
+.cinco:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -246px -71px;
+}
 .seis{
     width: 55px;
     height: 55px;
     background-position: -306px -3px;
 }
+.seis:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -306px -71px;
+}
 .siete{
     width: 55px;
     height: 55px;
     background-position: -366px -3px;
+}
+.siete:hover{
+    width: 55px;
+    height: 55px;
+    background-position: -366px -71px;
+}
+span{
+    /*overflow: hidden;
+    text-indent: 100%;*/
+    color: transparent;
 }
