@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.uno, .dos, .tres, .cuatro, .cinco, .seis, .siete{
+    background-image: url("../img/Social_circle.png");
+    background-repeat: no-repeat;
+}
+.uno{
+    width: 55px;
+    height: 55px;
+    background-position: -2px -3px;
+}
+.dos{
+    width: 55px;
+    height: 55px;
+    background-position: -62px -3px;
+}
+.tres{
+    width: 55px;
+    height: 55px;
+    background-position: -123px -3px;
+}
+.cuatro{
+    width: 55px;
+    height: 55px;
+    background-position: -184px -3px;
+}
+.cinco{
+    width: 55px;
+    height: 55px;
+    background-position: -246px -3px;
+}
+.seis{
+    width: 55px;
+    height: 55px;
+    background-position: -306px -3px;
+}
+.siete{
+    width: 55px;
+    height: 55px;
+    background-position: -366px -3px;
+}
